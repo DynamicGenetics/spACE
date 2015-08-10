@@ -1,0 +1,180 @@
+Composite of three language tests: genetic variance
+Composite of three language tests: shared environmental variance
+Composite of three language tests: non-shared environmental variance
+Composite of three language tests: total variance
+Composite of four reading tests : genetic variance
+Composite of four reading tests : shared environmental variance
+Composite of four reading tests : non-shared environmental variance
+Composite of four reading tests : total variance
+Composite of two verbal tests: genetic variance
+Composite of two verbal tests: shared environmental variance
+Composite of two verbal tests: non-shared environmental variance
+Composite of two verbal tests: total variance
+Composite of two nonverbal tests: genetic variance
+Composite of two nonverbal tests: shared environmental variance
+Composite of two nonverbal tests: non-shared environmental variance
+Composite of two nonverbal tests: total variance
+Composite of two verbal tests and two nonverbal tests: genetic variance
+Composite of two verbal tests and two nonverbal tests: shared environmental variance
+Composite of two verbal tests and two nonverbal tests: non-shared environmental variance
+Composite of two verbal tests and two nonverbal tests: total variance
+Composite of three mathematics tests: genetic variance
+Composite of three mathematics tests: shared environmental variance
+Composite of three mathematics tests: non-shared environmental variance
+Composite of three mathematics tests: total variance
+Teacher assessment of English attainment, with reference to the Key Stages of the UK National Curriculum: genetic variance
+Teacher assessment of English attainment, with reference to the Key Stages of the UK National Curriculum: shared environmental variance
+Teacher assessment of English attainment, with reference to the Key Stages of the UK National Curriculum: non-shared environmental variance
+Teacher assessment of English attainment, with reference to the Key Stages of the UK National Curriculum: total variance
+Teacher assessment of mathematics attainment, with reference to the Key Stages of the UK National Curriculum: genetic variance
+Teacher assessment of mathematics attainment, with reference to the Key Stages of the UK National Curriculum: shared environmental variance
+Teacher assessment of mathematics attainment, with reference to the Key Stages of the UK National Curriculum: non-shared environmental variance
+Teacher assessment of mathematics attainment, with reference to the Key Stages of the UK National Curriculum: total variance
+Teacher assessment of science attainment, with reference to the Key Stages of the UK National Curriculum: genetic variance
+Teacher assessment of science attainment, with reference to the Key Stages of the UK National Curriculum: shared environmental variance
+Teacher assessment of science attainment, with reference to the Key Stages of the UK National Curriculum: non-shared environmental variance
+Teacher assessment of science attainment, with reference to the Key Stages of the UK National Curriculum: total variance
+Teacher assessment of educational attainment, with reference to the Key Stages of the UK National Curriculum (composite of the three core subjects): genetic variance
+Teacher assessment of educational attainment, with reference to the Key Stages of the UK National Curriculum (composite of the three core subjects): shared environmental variance
+Teacher assessment of educational attainment, with reference to the Key Stages of the UK National Curriculum (composite of the three core subjects): non-shared environmental variance
+Teacher assessment of educational attainment, with reference to the Key Stages of the UK National Curriculum (composite of the three core subjects): total variance
+Social subscale of the Childhood Asperger Syndrome Test (parent-rated): genetic variance
+Social subscale of the Childhood Asperger Syndrome Test (parent-rated): shared environmental variance
+Social subscale of the Childhood Asperger Syndrome Test (parent-rated): non-shared environmental variance
+Social subscale of the Childhood Asperger Syndrome Test (parent-rated): total variance
+Social subscale of the Childhood Asperger Syndrome Test (teacher-rated): genetic variance
+Social subscale of the Childhood Asperger Syndrome Test (teacher-rated): shared environmental variance
+Social subscale of the Childhood Asperger Syndrome Test (teacher-rated): non-shared environmental variance
+Social subscale of the Childhood Asperger Syndrome Test (teacher-rated): total variance
+Non-social subscale of the Childhood Asperger Syndrome Test (parent-rated): genetic variance
+Non-social subscale of the Childhood Asperger Syndrome Test (parent-rated): shared environmental variance
+Non-social subscale of the Childhood Asperger Syndrome Test (parent-rated): non-shared environmental variance
+Non-social subscale of the Childhood Asperger Syndrome Test (parent-rated): total variance
+Non-social subscale of the Childhood Asperger Syndrome Test (teacher-rated): genetic variance
+Non-social subscale of the Childhood Asperger Syndrome Test (teacher-rated): shared environmental variance
+Non-social subscale of the Childhood Asperger Syndrome Test (teacher-rated): non-shared environmental variance
+Non-social subscale of the Childhood Asperger Syndrome Test (teacher-rated): total variance
+Communication subscale of the Childhood Asperger Syndrome Test (parent-rated): genetic variance
+Communication subscale of the Childhood Asperger Syndrome Test (parent-rated): shared environmental variance
+Communication subscale of the Childhood Asperger Syndrome Test (parent-rated): non-shared environmental variance
+Communication subscale of the Childhood Asperger Syndrome Test (parent-rated): total variance
+Communication subscale of the Childhood Asperger Syndrome Test (teacher-rated): genetic variance
+Communication subscale of the Childhood Asperger Syndrome Test (teacher-rated): shared environmental variance
+Communication subscale of the Childhood Asperger Syndrome Test (teacher-rated): non-shared environmental variance
+Communication subscale of the Childhood Asperger Syndrome Test (teacher-rated): total variance
+Childhood Asperger Syndrome Test composite (parent-rated): genetic variance
+Childhood Asperger Syndrome Test composite (parent-rated): shared environmental variance
+Childhood Asperger Syndrome Test composite (parent-rated): non-shared environmental variance
+Childhood Asperger Syndrome Test composite (parent-rated): total variance
+Childhood Asperger Syndrome Test composite (teacher-rated): genetic variance
+Childhood Asperger Syndrome Test composite (teacher-rated): shared environmental variance
+Childhood Asperger Syndrome Test composite (teacher-rated): non-shared environmental variance
+Childhood Asperger Syndrome Test composite (teacher-rated): total variance
+Hyperactivity subscale of the Conners’ Parent Rating Scale: genetic variance
+Hyperactivity subscale of the Conners’ Parent Rating Scale: shared environmental variance
+Hyperactivity subscale of the Conners’ Parent Rating Scale: non-shared environmental variance
+Hyperactivity subscale of the Conners’ Parent Rating Scale: total variance
+Inattention subscale of the Conners’ Parent Rating Scale: genetic variance
+Inattention subscale of the Conners’ Parent Rating Scale: shared environmental variance
+Inattention subscale of the Conners’ Parent Rating Scale: non-shared environmental variance
+Inattention subscale of the Conners’ Parent Rating Scale: total variance
+Conners’ Parent Rating Scale composite: genetic variance
+Conners’ Parent Rating Scale composite: shared environmental variance
+Conners’ Parent Rating Scale composite: non-shared environmental variance
+Conners’ Parent Rating Scale composite: total variance
+Moods and Feelings Questionnaire (parent-rated): genetic variance
+Moods and Feelings Questionnaire (parent-rated): shared environmental variance
+Moods and Feelings Questionnaire (parent-rated): non-shared environmental variance
+Moods and Feelings Questionnaire (parent-rated): total variance
+Prosocial subscale of the Strengths and Difficulties Questionnaire (parent-rated): genetic variance
+Prosocial subscale of the Strengths and Difficulties Questionnaire (parent-rated): shared environmental variance
+Prosocial subscale of the Strengths and Difficulties Questionnaire (parent-rated): non-shared environmental variance
+Prosocial subscale of the Strengths and Difficulties Questionnaire (parent-rated): total variance
+Prosocial subscale of the Strengths and Difficulties Questionnaire (teacher-rated): genetic variance
+Prosocial subscale of the Strengths and Difficulties Questionnaire (teacher-rated): shared environmental variance
+Prosocial subscale of the Strengths and Difficulties Questionnaire (teacher-rated): non-shared environmental variance
+Prosocial subscale of the Strengths and Difficulties Questionnaire (teacher-rated): total variance
+Hyperactivity subscale of the Strengths and Difficulties Questionnaire (parent-rated): genetic variance
+Hyperactivity subscale of the Strengths and Difficulties Questionnaire (parent-rated): shared environmental variance
+Hyperactivity subscale of the Strengths and Difficulties Questionnaire (parent-rated): non-shared environmental variance
+Hyperactivity subscale of the Strengths and Difficulties Questionnaire (parent-rated): total variance
+Hyperactivity subscale of the Strengths and Difficulties Questionnaire (teacher-rated): genetic variance
+Hyperactivity subscale of the Strengths and Difficulties Questionnaire (teacher-rated): shared environmental variance
+Hyperactivity subscale of the Strengths and Difficulties Questionnaire (teacher-rated): non-shared environmental variance
+Hyperactivity subscale of the Strengths and Difficulties Questionnaire (teacher-rated): total variance
+Conduct subscale of the Strengths and Difficulties Questionnaire (parent-rated): genetic variance
+Conduct subscale of the Strengths and Difficulties Questionnaire (parent-rated): shared environmental variance
+Conduct subscale of the Strengths and Difficulties Questionnaire (parent-rated): non-shared environmental variance
+Conduct subscale of the Strengths and Difficulties Questionnaire (parent-rated): total variance
+Conduct subscale of the Strengths and Difficulties Questionnaire (teacher-rated): genetic variance
+Conduct subscale of the Strengths and Difficulties Questionnaire (teacher-rated): shared environmental variance
+Conduct subscale of the Strengths and Difficulties Questionnaire (teacher-rated): non-shared environmental variance
+Conduct subscale of the Strengths and Difficulties Questionnaire (teacher-rated): total variance
+Peers subscale of the Strengths and Difficulties Questionnaire (parent-rated): genetic variance
+Peers subscale of the Strengths and Difficulties Questionnaire (parent-rated): shared environmental variance
+Peers subscale of the Strengths and Difficulties Questionnaire (parent-rated): non-shared environmental variance
+Peers subscale of the Strengths and Difficulties Questionnaire (parent-rated): total variance
+Peers subscale of the Strengths and Difficulties Questionnaire (teacher-rated): genetic variance
+Peers subscale of the Strengths and Difficulties Questionnaire (teacher-rated): shared environmental variance
+Peers subscale of the Strengths and Difficulties Questionnaire (teacher-rated): non-shared environmental variance
+Peers subscale of the Strengths and Difficulties Questionnaire (teacher-rated): total variance
+Emotional subscale of the Strengths and Difficulties Questionnaire (parent-rated): genetic variance
+Emotional subscale of the Strengths and Difficulties Questionnaire (parent-rated): shared environmental variance
+Emotional subscale of the Strengths and Difficulties Questionnaire (parent-rated): non-shared environmental variance
+Emotional subscale of the Strengths and Difficulties Questionnaire (parent-rated): total variance
+Emotional subscale of the Strengths and Difficulties Questionnaire (teacher-rated): genetic variance
+Emotional subscale of the Strengths and Difficulties Questionnaire (teacher-rated): shared environmental variance
+Emotional subscale of the Strengths and Difficulties Questionnaire (teacher-rated): non-shared environmental variance
+Emotional subscale of the Strengths and Difficulties Questionnaire (teacher-rated): total variance
+Composite of the problem behaviour subscales from the Strengths and Difficulties Questionnaire (parent-rated): genetic variance
+Composite of the problem behaviour subscales from the Strengths and Difficulties Questionnaire (parent-rated): shared environmental variance
+Composite of the problem behaviour subscales from the Strengths and Difficulties Questionnaire (parent-rated): non-shared environmental variance
+Composite of the problem behaviour subscales from the Strengths and Difficulties Questionnaire (parent-rated): total variance
+Composite of the problem behaviour subscales from the Strengths and Difficulties Questionnaire (teacher-rated): genetic variance
+Composite of the problem behaviour subscales from the Strengths and Difficulties Questionnaire (teacher-rated): shared environmental variance
+Composite of the problem behaviour subscales from the Strengths and Difficulties Questionnaire (teacher-rated): non-shared environmental variance
+Composite of the problem behaviour subscales from the Strengths and Difficulties Questionnaire (teacher-rated): total variance
+Callous-unemotional subscale of the Antisocial Process Screening Device (parent-rated): genetic variance
+Callous-unemotional subscale of the Antisocial Process Screening Device (parent-rated): shared environmental variance
+Callous-unemotional subscale of the Antisocial Process Screening Device (parent-rated): non-shared environmental variance
+Callous-unemotional subscale of the Antisocial Process Screening Device (parent-rated): total variance
+Callous-unemotional subscale of the Antisocial Process Screening Device (teacher-rated): genetic variance
+Callous-unemotional subscale of the Antisocial Process Screening Device (teacher-rated): shared environmental variance
+Callous-unemotional subscale of the Antisocial Process Screening Device (teacher-rated): non-shared environmental variance
+Callous-unemotional subscale of the Antisocial Process Screening Device (teacher-rated): total variance
+Narcissism subscale of the Antisocial Process Screening Device (parent-rated): genetic variance
+Narcissism subscale of the Antisocial Process Screening Device (parent-rated): shared environmental variance
+Narcissism subscale of the Antisocial Process Screening Device (parent-rated): non-shared environmental variance
+Narcissism subscale of the Antisocial Process Screening Device (parent-rated): total variance
+Narcissism subscale of the Antisocial Process Screening Device (teacher-rated): genetic variance
+Narcissism subscale of the Antisocial Process Screening Device (teacher-rated): shared environmental variance
+Narcissism subscale of the Antisocial Process Screening Device (teacher-rated): non-shared environmental variance
+Narcissism subscale of the Antisocial Process Screening Device (teacher-rated): total variance
+Impulsivity subscale of the Antisocial Process Screening Device (parent-rated): genetic variance
+Impulsivity subscale of the Antisocial Process Screening Device (parent-rated): shared environmental variance
+Impulsivity subscale of the Antisocial Process Screening Device (parent-rated): non-shared environmental variance
+Impulsivity subscale of the Antisocial Process Screening Device (parent-rated): total variance
+Impulsivity subscale of the Antisocial Process Screening Device (teacher-rated): genetic variance
+Impulsivity subscale of the Antisocial Process Screening Device (teacher-rated): shared environmental variance
+Impulsivity subscale of the Antisocial Process Screening Device (teacher-rated): non-shared environmental variance
+Impulsivity subscale of the Antisocial Process Screening Device (teacher-rated): total variance
+Composite of the Antisocial Process Screening Device (parent-rated): genetic variance
+Composite of the Antisocial Process Screening Device (parent-rated): shared environmental variance
+Composite of the Antisocial Process Screening Device (parent-rated): non-shared environmental variance
+Composite of the Antisocial Process Screening Device (parent-rated): total variance
+Composite of the Antisocial Process Screening Device (teacher-rated): genetic variance
+Composite of the Antisocial Process Screening Device (teacher-rated): shared environmental variance
+Composite of the Antisocial Process Screening Device (teacher-rated): non-shared environmental variance
+Composite of the Antisocial Process Screening Device (teacher-rated): total variance
+Height in metres: genetic variance
+Height in metres: shared environmental variance
+Height in metres: non-shared environmental variance
+Height in metres: total variance
+Weight in kilograms: genetic variance
+Weight in kilograms: shared environmental variance
+Weight in kilograms: non-shared environmental variance
+Weight in kilograms: total variance
+Body Mass Index: (weight in kilograms, divided by height in metres squared): genetic variance
+Body Mass Index: (weight in kilograms, divided by height in metres squared): shared environmental variance
+Body Mass Index: (weight in kilograms, divided by height in metres squared): non-shared environmental variance
+Body Mass Index: (weight in kilograms, divided by height in metres squared): total variance
