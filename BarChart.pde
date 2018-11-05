@@ -172,7 +172,3 @@ class BarChart {
     this.posY = y;
   }
 }
-
-
-
-

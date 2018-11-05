@@ -1,11 +1,10 @@
 
-spACE V1.0
-Copyright Oliver Davis 2011
+spACE V2.0
+Copyright Oliver Davis 2018
 
 This visualisation of the geocoded twin analysis described in
 
-Davis OSP, Haworth CMA, Lewis CM, and Plomin R (submitted for publication) Visual analysis of
-geocoded twin data puts nature and nurture on the map
+Davis, O. S. P., Haworth, C. M. A., Lewis, C. M., & Plomin, R. (2012). Visual analysis of geocoded twin data puts nature and nurture on the map. Molecular Psychiatry, 17(9), 867–874. http://doi.org/10.1038/mp.2012.68
 
 is made available under the GNU General Public Licence Version 3, as described in the "copying.txt"
 document distributed with this software. If you find this software or code useful in your own work,
@@ -53,16 +52,16 @@ Clicking and dragging the bottom right-hand corner resizes the main window.
 
 CONTACT
 
-Thanks for your interest in the geocoded TEDS data. More information will be made available from
-time-to-time at http://sgdp.iop.kcl.ac.uk/davis/teds/geocoding/
+Thanks for your interest in spACE. More information will be made available from
+time-to-time at https://dynamicgenetics.org
 
 If you have questions and cannot find the answer there, please get in touch with me at
-Oliver.Davis@kcl.ac.uk, or refer to the page above for further contact information.
+Oliver.Davis@bristol.ac.uk.
 
 Best wishes,
 
 Oliver
-05.03.12
+03.10.18
 
 
 

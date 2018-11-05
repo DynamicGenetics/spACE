@@ -54,7 +54,7 @@ int currentColumn = 0;
 FloatTable data;
 int[] eastings;
 int[] northings;
-PFont mapFont = createFont("Junction 02", 16);
+PFont mapFont;
 NameBar2 columns;
 DataToggle toggle;
 DescriptionBar description;
@@ -71,6 +71,8 @@ PImage[][] tiles = new PImage[7][11];
 
 // Setup environment
 void setup( ) {
+  
+  mapFont = createFont("Junction 02", 16);
   
 // Modify for Web display
   size(955,700);
@@ -131,7 +133,7 @@ void setup( ) {
   oldWidth = width;
   
   // Set up for resizing the frame
-  frame.setResizable(true);
+  surface.setResizable(true);
           
   frame.addComponentListener(new ComponentAdapter() {
     public void componentResized(ComponentEvent e) {
@@ -311,7 +313,7 @@ void drawDataPoints(float zoom, float focX, float focY) {
     float y = (map(northings[row], 0, 1100000, imageHeight, 0) - imageHeight/2 +focY)*zoom;
     
     // Skip points that fall outside the screen
-    if(abs(x)>8+screenWidth/2 || abs(y)>8+screenHeight/2) continue;
+    if(abs(x)>8+displayWidth/2 || abs(y)>8+displayHeight/2) continue;
     
     float value = data.getFloat(row,currentColumn);
     
@@ -488,5 +490,3 @@ void mouseClicked(){
   }
   toggle.checkClick();
 }
-
-
